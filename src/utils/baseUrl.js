@@ -1,0 +1,1 @@
+export const baseUrl = "https://kl58khr5-3000.brs.devtunnels.ms"
